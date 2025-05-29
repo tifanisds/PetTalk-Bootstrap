@@ -2,51 +2,13 @@
     font-family: "Inter", sans-serif;
 }
 
-#main-presentation {
-    color: #292830;
-}
-
-#main-presentation .title {
-    font-weight: 700;
-}
-
-#main-presentation .subtitle {
-    font-size: 24px;
-    color: #7E7E7E;
-}
-
 #about-the-app {
     background: linear-gradient(90deg,rgba(255, 114, 53, 1) 24%, rgba(255, 141, 92, 1) 76%);
     color: #FFFFFF;
 }
 
-#about-the-app .title {
-    font-weight: 700;
-}
-
-#about-the-app .subtitle {
-    font-size: 24px;
-}
-
-#pettalk-collar {
-    color: #292830;
-}
-
-#pettalk-collar .title {
-    font-weight: 700;
-}
-
-#pettalk-collar .subtitle {
-    font-size: 24px;
-    color: #7E7E7E;
-}
-
 #pettalk-collar a {
     color: #FF7235;
-}
-
-#about-the-plans .title {
-    font-weight: 700;
 }
 
 .btn {
