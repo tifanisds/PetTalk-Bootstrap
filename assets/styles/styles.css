@@ -1,0 +1,26 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.main-presentation {
+    color: #292830;
+}
+
+.btn {
+    background-color: #FF7235;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #df5a21;
+}
+
+.title {
+    font-size: 85px;
+    font-weight: 800;
+}
+
+.subtitle {
+    font-size: 24px;
+    color: #7E7E7E;
+}
