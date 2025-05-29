@@ -45,6 +45,10 @@
     color: #FF7235;
 }
 
+#about-the-plans .title {
+    font-weight: 700;
+}
+
 .btn {
     background-color: #FF7235;
     border: none;
