@@ -28,6 +28,23 @@
     font-size: 24px;
 }
 
+#pettalk-collar {
+    color: #292830;
+}
+
+#pettalk-collar .title {
+    font-weight: 700;
+}
+
+#pettalk-collar .subtitle {
+    font-size: 24px;
+    color: #7E7E7E;
+}
+
+#pettalk-collar a {
+    color: #FF7235;
+}
+
 .btn {
     background-color: #FF7235;
     border: none;
